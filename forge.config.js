@@ -45,13 +45,13 @@ module.exports = {
         //     name: "@electron-forge/maker-rpm",
         //     config: {},
         // },
-        {
-            name: "@electron-forge/maker-dmg",
-            config: {
-                background: "./src/images/bg-doggy.jpg",
-                format: "ULFO",
-            },
-        },
+        // {
+        //     name: "@electron-forge/maker-dmg",
+        //     config: {
+        //         background: "./src/images/bg-doggy.jpg",
+        //         format: "ULFO",
+        //     },
+        // },
     ],
     plugins: [
         {
